@@ -1,13 +1,17 @@
 # Analytic-Federated-Learning
 This repo will be continually updating analytic federated learning methods.
-## Dummy data validation
+# Dual Branch
+
+We have a dual branch at "[Analytic Continual Learning.](https://github.com/ZHUANGHP/Analytic-continual-learning)" 
+
+## Dummy Data Validation
 
 Currently, we have released the dummy data validation code for the Analytic Federated Learning (https://arxiv.org/abs/2405.16240). You can use this code and implement it in your own research.
 
 More detailed codes will be available later.
 
 
-## cite our paper
+## Cite Our Paper
 ```bib
 @misc{zhuang2024analytic,
       title={Analytic Federated Learning}, 
